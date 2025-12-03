@@ -17,7 +17,7 @@ Aplicación web desarrollada con Django y MySQL que permite a estudiantes y enca
 
 ## Instalación rápida
 
-git clone <URL_DEL_REPO>
+$git clone <URL_DEL_REPO>
 cd inacap-reporta
 python -m venv venv
 venv\Scripts\activate # Windows
@@ -26,7 +26,6 @@ python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
 
-text
 
 Abrir en el navegador: `http://127.0.0.1:8000/`.
 
