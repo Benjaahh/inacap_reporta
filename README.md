@@ -16,7 +16,6 @@ Aplicación web desarrollada con Django y MySQL que permite a estudiantes y enca
 - pip y virtualenv
 
 ## Instalación rápida
-
 $git clone <URL_DEL_REPO>
 cd inacap-reporta
 python -m venv venv
